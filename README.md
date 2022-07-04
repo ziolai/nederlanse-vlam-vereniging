@@ -1,6 +1,6 @@
 # Nederlandse Vlam Vereniging - NVV 
 
-## New NVV Website
+## Section 1: New NVV Website
 
 Current version is at [NVV website](http://vlamvereniging.nl/en). This version was developed by [Kiwico](https://www.kiwico.nl/nvv). 
 
@@ -9,6 +9,7 @@ Lean, modular, extensible and easily maintanable website
 - only English (no Dutch) pages;
 - refer to Linked-Inn for news items; 
 - maintain list of news items on website as repository;
+- merge NVV website and Combura website and allow payment of registration via IDEAL? 
 
 How should webpages be structured (top down approach)?
 
@@ -43,7 +44,7 @@ Link to IFRF still up to date?
 ### Infrastructure to Build New Website 
 Ask for offers at e.g. [99designs](https://en.99designs.nl). 
 
-## Finances (details go elsewhere)
+## Section 2: Finances (details go elsewhere)
 
 - how much money is there? 
 
@@ -55,9 +56,10 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 - are other activities planned? 
 
-## Combura-2022 
+## Section 3: Combura-2022 
 - website [combura.nl](https://www.combura.nl)
 - hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathisbn (website))
+- alternatives (payment via IDEAL): [Easy Conference](https://easyconferences.eu) and [EventBrite](https://www.eventbrite.com)
 - hotel Kontact der Continenten 
 - 4th and 5th October 2022 (cfr. email Harshit )
 - Annelies van de Ree Reservations department
@@ -116,12 +118,15 @@ Email: info@fyper.com
 ### Finances out 
 1. 
 
-
-
-## NVV Theme Day Suggestions
+## Section 4: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
 - theme day on public domain tools for meshing and computational fluid dynamics
 - theme day on experimental techniques 
+
+
+```julia
+
+```
 
 
 ```julia
