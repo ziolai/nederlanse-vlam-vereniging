@@ -31,12 +31,12 @@ current: TU Delft (aero (Rao Gangoli) and 3ME (Klein)),
 - [Process and Energy Department](https://www.tudelft.nl/3me/over/afdelingen/process-energy), TU Delft (Klein, de Jong)
 - [Fluid Performance and Propulsion](https://www.tudelft.nl/index.php?id=4544), TU Delft (Rao Gangoli)
 
-other: ULB Brussels (Parente?), Louvain-la-Neuve, Mons, Namur, Liege, Leuven, Ghent? 
+other: ULB Brussels (Parente?), Louvain-la-Neuve, Mons (in the past), Namur, Liege, Leuven, Ghent (in the past)? 
 
 #### Corporate Members 
 current: Shell, Bosch,  Bekaert and De Jong. 
 
-other (?): Celsian, Danieli-Corus, Albermarle. 
+other (?): Celsian, Danieli-Corus, Albermarle, GAS Unie, DNVGL, KEMA (safety, hydrogen), TNO Prins Maurits Lab. 
 
 #### Link to similar organizations 
 Link to IFRF still up to date? 
@@ -58,21 +58,36 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 ## Section 3: Combura-2022 
 - website [combura.nl](https://www.combura.nl)
-- hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathisbn (website))
-- alternatives (payment via IDEAL): [Easy Conference](https://easyconferences.eu) and [EventBrite](https://www.eventbrite.com)
-- hotel Kontact der Continenten 
-- 4th and 5th October 2022 (cfr. email Harshit )
-- Annelies van de Ree Reservations department
- - Conferentiehotel Kontakt der Kontinenten
- - Amersfoortsestraat 20, 3769 AS Soesterberg 
- - Tel +31 (0)346 33 25 37, Direct +31(0)346 33 25 38
- - [KontaktderKontinenten.nl](KontaktderKontinenten.nl)
+- hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathis(website))
+- alternatives (payment via IDEAL): [CVENT](cvent.org), [Easy Conference](https://easyconferences.eu) and [EventBrite](https://www.eventbrite.com)
+- dates: 4th and 5th October 2022 (cfr. email Harshit )
+
+### Contact List 
+
+#### Hotel: Conferentiehotel Kontakt der Kontinenten 
+- Annelies van de Ree Reservations department 
+- Tel +31 (0)346 33 25 37, Direct +31(0)346 33 25 38
+- Emma van Gool Reserveringen
+- Tel +31 (0)346 33 25 37, Direct +31 (0)346 33 25 36
+- Email: Reserveringen@kontaktderkontinenten.nl 
+- Amersfoortsestraat 20, 3769 AS Soesterberg 
+- [KontaktderKontinenten.nl](KontaktderKontinenten.nl)
+
+#### Graphic Design Call for Papers: KIWICO  
+- Quirrijn Schuur 
+- De Savornin Lohmanstraat 11BS, 3551 BS Utrecht 
+- Tel: +31 (0)6 4181 45 55 
+- Email: qs@kiwico.nl 
+- [Kiwico](www.kiwico.nl)
+
+#### Website 
+- Pyrrhos Stathis 
+- Email: info@fyper.com
 
 ### Organizing comite members
-- Harshit Gupta 
-- Nijso Beishuizen
-- Mark Senden (?)
-
+- Harshit Gupta: 06.15.41.44.59
+- Nijso Beishuizen: Bosch Thermotechniek, +31 570 60-2553, Nijso.Beishuizen@nl.bosch.com 
+- Mark Senden: Mark Senden, 06.38.10.69.22, m.senden@dejong.nl
 
 ### Organizing comite tasks 
 - Send first (and second) call around
@@ -116,7 +131,19 @@ Email: info@fyper.com
 1. online payment system 
 
 ### Finances out 
-1. 
+
+### CVENT Information 
+To recap, Cvent can add value to your event by:
+- providing a holistic event management solution that allows you and your team to manage the entire event lifecycle from marketing, to collecting registrations to attendance tracking, onsite check-in management and post-event analytics
+- making event registration flexible and streamlined, eliminating the hassle of spreadsheets and manual work. Your team can create the perfect attendee experience by obtaining registration information via a fully GDPR compliant environment. Click here for examples of event websites set up in the Cvent platform.
+- Giving you better insights into your events through our reporting tool.
+- Providing unlimited support and training with an Account Manager and Client Success Consultant. They will guide you through a tailored onboarding process.
+- CVENT contacts: William Spooner (wspooner@cvent.com) and Zain Chandan (zchandan@cvent.com)
+
+<div>
+<img src="./figures/cvent-pricing-information.png" width=500 /> 
+<center> CVENT pricing information.</center>   
+</div>
 
 ## Section 4: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
