@@ -100,6 +100,47 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 - arrange poster boards as part of offer from Kontact der Kontinenten;  
 
+### Overview by Harshit 
+
+Email by Harshit on August 3rd, 2022 
+
+Dear all,
+ 
+Hereby the tasks that need to be carried out in the coming weeks
+ 
+<b>First, second and last call posters</b>
+
+Sending out poster/first call: I have attached the latest poster with the updated prices. The document still needs some formatting. I think it would be best that one of you sends this around instead of me, because often people submit their abstracts or ask questions as a reply to this first call mail, so it will be good if one of you sends this around. Generally, the mail is sent to all the NVV industrial and academic partners and they are requested to spread it around in their network through department secretaries etc. It would be good if this mail is already sent out before the end of this week. We also always request them to further spread it in the BENELUX region. 
+Generally there is also a second and third call, for this you can use the services of Kiwico to format the word file into a nicer/presentable pdf document, I will send a separate email about this.
+
+<b>Input Domenico</b>
+a. text of the call requires editting (uniform form, website, registration fees)
+b. list of contacts requires to be assembled/edited; 
+c. Website requires to be brought up to date; 
+
+
+<b>Hotel</b> Contact hotel and submit down payment in the coming days. I will contact the hotel and handover the contact information of the organizing committee so they can contact you for further communication
+2/3 weeks before the conference we have to pay the complete amount and then the differences after Combura
+The first call poster is shared with the hotel as well, mostly out of courtesy
+The hotel needs to be informed in time what the total number of reservations are for both overnight stay and conference attendees, they can make the arrangements accordingly, this can be done on a dynamic basis and has no specific timeline
+Website
+
+<b>Website</b> Pyrrhos Statis sets up the website for Combura and maintains it, he is also responsible for the Combura payment and registration aspect. Pyrrhos is currently busy with setting up the new payment portal 
+Pyrrhos has direct access to registration and payment information, you can discuss with Pyrrhos how often would you like to have this
+I will send a separate email to Pyrrhos with you all in cc regarding handover of tasks. 
+
+<b>Payment</b>:  
+Payments were easy in the past as Nijso was always in the organizing committee and also the treasurer, but now this needs to be better organized, generally organizing committee is responsible for payments and costs
+
+<b>Registration</b>:  
+Registrations done on Combura website are automatic and a backend system sends out the confirmation
+
+<b>Abstract submission</b>: 
+This is done by sending an email to combura email, this email needs to be coupled with the mail id of the organizing committee, any of the NVV board members can modify this on the NVV backend website
+Confirmation of receipt and acceptance to Combura is done manually by whoever who has access to the combura mail id and sends the first call poster. It would be good if you could decide who this person should be. It’s a bit of work but not too much, easily manageable within ½ hour per week.
+ 
+This should mostly cover it. And of course if there are questions please feel free to contact me. I will be working at Bekaert till 09th of September but if there are questions after that, you can contact me on my personal mail id or phone number
+
 ### Program comite members (Jim Kok takes a lead in the program committee) 
 - Jim Kok
 - Ivan Langella
@@ -145,7 +186,25 @@ To recap, Cvent can add value to your event by:
 <center> CVENT pricing information.</center>   
 </div>
 
-## Section 4: NVV Theme Day Suggestions
+## Section 4: Change of Date - Hotel 
+Goedemiddag Domenico,
+ 
+Wij hebben elkaar vanochtend telefonisch gesproken.
+Je gaf aan dat jullie eraan zitten te denken om het Combura congres 2022 te verplaatsen naar eind november dit jaar. 
+ 
+Zoals aangegeven zou ik even kijken naar welke mogelijkheid wij in november hebben. De enige mogelijkheid die wij nog hebben is woensdag 23 en donderdag 24 november. Daarbij zullen er wel wat kleine wijzigingen zijn, namelijk de hotelkamers en een subzaal.
+Voor 4 op 5 oktober zijn er nu 42 tweepersoonskamers gereserveerd voor single use, maar deze hebben wij niet meer beschikbaar voor 23 op 24 november. Wij kunnen voor die datum wel 23 tweepersoonskamers single use en 19 éénpersoonskamers reserveren.
+ 
+Daarnaast zijn er nu op 5 oktober 2 subzalen van 35m2 in de middag gereserveerd (van 13:50 tot 16:25). Op 24 november hebben wij nog maar 1 subzaal beschikbaar van 35m2 en zouden wij een andere subzaal van 50m2 kunnen reserveren. Hier zit wel een andere zaalhuurprijs aan, namelijk €400 i.p.v. €180.
+ 
+Mochten jullie de beslissing nemen om het congres te verplaatsen naar 23-24 november, dan kan dat kosteloos. Mochten jullie uiteindelijk de beslissing nemen om het congres te annuleren dan zijn onze annuleringsvoorwaarden van toepassing.
+ 
+Wij houden de zalen op 23-24 november voor jullie in optie. Wij horen graag uiterlijk vrijdag 2 september welke beslissing er genomen is.
+Als er nog vragen zijn dan hoor ik het graag!
+ 
+Met wereldse groet, Emma van Gool. 
+
+## Section 5: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
 - theme day on public domain tools for meshing and computational fluid dynamics
 - theme day on experimental techniques 
