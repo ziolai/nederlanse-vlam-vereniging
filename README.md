@@ -204,7 +204,30 @@ Als er nog vragen zijn dan hoor ik het graag!
  
 Met wereldse groet, Emma van Gool. 
 
-## Section 5: NVV Theme Day Suggestions
+## Section 6: Task List 
+
+### Nijso
+1. contact person to hotel; talks to hotel prior, during conference (group picture) and after conference; sends invoice to Ivan; 
+2. contact to Pyrrhos: sends invoice to Ivan;
+3. contact to KIWICO: sends invoice to Ivan;
+
+### Mark
+1. contact person to CVENT; sends CVENT contact list; William Spooner (wspooner@cvent.com) and Zain Chandan (zchandan@cvent.com); coordinates with Pyrrhos to arrange online payment system; 
+
+### Rob 
+1. assembles list of contacts for first call; 
+
+### Jim
+1. determines registration fee;
+2. finalizes first call for papers; 
+3. sends and receives call to/from Quirrijn Schuur (KIWICO); 
+4. sends call to Pyrrhos (FYPER) to place on website;   
+
+### Ivan 
+1. pays invoices to hotel, to KIWICO, to FYPER and to CVENT; 
+2. announce Combura on Linked-Inn page; 
+
+## Section 7: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
 - theme day on public domain tools for meshing and computational fluid dynamics
 - theme day on experimental techniques 
