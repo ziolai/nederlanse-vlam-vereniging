@@ -59,8 +59,8 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 ## Section 3: Combura-2022 
 - website [combura.nl](https://www.combura.nl)
 - hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathis(website))
-- alternatives (payment via IDEAL): [CVENT](cvent.org), [Easy Conference](https://easyconferences.eu) and [EventBrite](https://www.eventbrite.com)
-- dates: 4th and 5th October 2022 (cfr. email Harshit )
+- alternatives (payment via IDEAL): [CVENT](cvent.org)
+- dates: Wednesday 23 en Thursday 24 November 2022 
 
 ### Contact List 
 
@@ -88,6 +88,30 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 - Harshit Gupta: 06.15.41.44.59
 - Nijso Beishuizen: Bosch Thermotechniek, +31 570 60-2553, Nijso.Beishuizen@nl.bosch.com 
 - Mark Senden: Mark Senden, 06.38.10.69.22, m.senden@dejong.nl
+ 
+### Email List for First Call of Papers 
+
+Academic 
+
+r.j.m.bastiaans@tue.nl; francesco.contino@uclouvain.be; A.GangoliRao@tudelft.nl; L.P.H.d.Goey@tue.nl;  S.Hickel@tudelft.nl; herve.jeanmart@uclouvain.be; S.A.Klein@tudelft.nl; j.b.w.kok@utwente.nl; i.langella@tudelft.nl; stefan.leyer@uni.lu; Bart.Merci@UGent.be; J.A.v.Oijen@tue.nl; alessandro.parente@ulb.be; 
+
+contacts at VKI Brussels (Wim Munters and lady that gave talk in Cambridge); 
+contacts in Rouen 
+
+Academic Germany 
+
+office@itv.rwth-aachen.de; ivg.webredaktion@uni-due.de; lambie@tfi.tu-darmstadt.de 
+
+Other academic
+
+tommaso.lucchini@polimi.it 
+
+Corporate
+
+info@goudarefractories.com; nicholas.agon@eu.umicore.com; Nijso.Beishuizen@nl.bosch.com; cars.hiemstra@albemarle.com; timothy.kerry@eu.umicore.com; harmen.kielstra@celsian.nl; stefan.kuiper@almatis.com; joost.meijers@danieli-corus.com; anatolie.motelica@albemarle.com; michiel.oudenhuijzen@albemarle.com; m.senden@dejong.nl; sido.sinnema@tatasteeleurope.com; ewout.tesselaar@danieli-corus.com; luuk.thielen@celsian.nl; victor.van-Straaten@danieli-corus.com;
+
+https://www.mitsubishi.nl? 
+siemens.nl 
 
 ### Organizing comite tasks 
 - Send first (and second) call around
@@ -169,9 +193,17 @@ Email: info@fyper.com
 ### Master thesis award committee 
 
 ### Finances in 
-1. online payment system 
+- online payment system 
+- we get around 5k back from participants
 
 ### Finances out 
+- kiwico (flyers) is around 750,-
+- pyrrhos (website) is around 900,-
+- the annual website domain cost are around 60-, this is fixed
+- sciconf also takes a certain percentage from the total cost of the conference.
+- total transfer for the conference is around 10k
+- we get around 5k back from participants, so the net combura costs are 5k – 6k
+
 
 ### CVENT Information 
 To recap, Cvent can add value to your event by:
