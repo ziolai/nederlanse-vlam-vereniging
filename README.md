@@ -114,7 +114,7 @@ contacts in Rouen
 
 Academic Germany 
 
-office@itv.rwth-aachen.de; ivg.webredaktion@uni-due.de; lambie@tfi.tu-darmstadt.de; h.pitsch@itv.rwth-aachen.de; Ward.DEPAEPE@umons.ac.be; fcontinu@vub.ac.be;
+office@itv.rwth-aachen.de; ivg.webredaktion@uni-due.de; lambie@tfi.tu-darmstadt.de; h.pitsch@itv.rwth-aachen.de; 
 
 Other academic
 
@@ -122,7 +122,7 @@ tommaso.lucchini@polimi.it
 
 Corporate
 
-info@goudarefractories.com; nicholas.agon@eu.umicore.com; L.Axelsson@opra.nl; Nijso.Beishuizen@nl.bosch.com; cars.hiemstra@albemarle.com; timothy.kerry@eu.umicore.com; harmen.kielstra@celsian.nl; Joris.Koomen@thomassen.psm.com; stefan.kuiper@almatis.com; Geert.Laagland@vattenfall.com; stefano.mania@shell.com; joost.meijers@danieli-corus.com; anatolie.motelica@albemarle.com; michiel.oudenhuijzen@albemarle.com; m.senden@dejong.nl; sido.sinnema@tatasteeleurope.com; Peter.Stuttaford@thomassen.psm.com; ewout.tesselaar@danieli-corus.com; luuk.thielen@celsian.nl; victor.van-Straaten@danieli-corus.com;
+info@goudarefractories.com; nicholas.agon@eu.umicore.com; L.Axelsson@opra.nl; mark.bus@bekaert.com; Nijso.Beishuizen@nl.bosch.com; cars.hiemstra@albemarle.com; timothy.kerry@eu.umicore.com; harmen.kielstra@celsian.nl; Joris.Koomen@thomassen.psm.com; stefan.kuiper@almatis.com; Geert.Laagland@vattenfall.com; stefano.mania@shell.com; joost.meijers@danieli-corus.com; anatolie.motelica@albemarle.com; michiel.oudenhuijzen@albemarle.com; m.senden@dejong.nl; sido.sinnema@tatasteeleurope.com; Peter.Stuttaford@thomassen.psm.com; ewout.tesselaar@danieli-corus.com; luuk.thielen@celsian.nl; victor.van-Straaten@danieli-corus.com; raymond.westers@bekaert.com; 
 
 https://www.mitsubishi.nl? 
 siemens.nl 
