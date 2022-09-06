@@ -44,7 +44,7 @@ Link to IFRF still up to date?
 ### Infrastructure to Build New Website 
 Ask for offers at e.g. [99designs](https://en.99designs.nl). 
 
-## Section 2: Finances (details go elsewhere)
+## Section 2: NVV Finances (details go elsewhere)
 
 - how much money is there? 
 
@@ -55,6 +55,20 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 - how much is typically spend for Combura? 
 
 - are other activities planned? 
+
+### Expenses for Combura go here 
+
+### Other Yearly Expenses 
+
+- IFRF membership 
+
+- MetalToPower: EUR 98.080 over four years.
+
+- DYNAF 
+
+### Yearly Income 
+
+- membership from Bekaert (Raymond Westers and Marc Bus), Bosch and Shell;
 
 ## Section 3: Combura-2022 
 - website [combura.nl](https://www.combura.nl)
@@ -93,14 +107,14 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 Academic 
 
-r.j.m.bastiaans@tue.nl; francesco.contino@uclouvain.be; A.GangoliRao@tudelft.nl; L.P.H.d.Goey@tue.nl;  S.Hickel@tudelft.nl; herve.jeanmart@uclouvain.be; S.A.Klein@tudelft.nl; j.b.w.kok@utwente.nl; i.langella@tudelft.nl; stefan.leyer@uni.lu; Bart.Merci@UGent.be; J.A.v.Oijen@tue.nl; alessandro.parente@ulb.be; 
+r.j.m.bastiaans@tue.nl; francesco.contino@uclouvain.be; n.j.dam@tue.nl; Ward.DEPAEPE@umons.ac.be; A.GangoliRao@tudelft.nl; L.P.H.d.Goey@tue.nl;  S.Hickel@tudelft.nl; herve.jeanmart@uclouvain.be; S.A.Klein@tudelft.nl; j.b.w.kok@utwente.nl; D.J.P.Lahaye@tudelft.nl; i.langella@tudelft.nl; stefan.leyer@uni.lu; Bart.Merci@UGent.be; J.A.v.Oijen@tue.nl; D.J.E.M.Roekaerts@tudelft.nl; alessandro.parente@ulb.be; l.m.t.somers@tue.nl; M.J.Tummers@tudelft.nl; 
 
 contacts at VKI Brussels (Wim Munters and lady that gave talk in Cambridge); 
 contacts in Rouen 
 
 Academic Germany 
 
-office@itv.rwth-aachen.de; ivg.webredaktion@uni-due.de; lambie@tfi.tu-darmstadt.de 
+office@itv.rwth-aachen.de; ivg.webredaktion@uni-due.de; lambie@tfi.tu-darmstadt.de; h.pitsch@itv.rwth-aachen.de; Ward.DEPAEPE@umons.ac.be; fcontinu@vub.ac.be;
 
 Other academic
 
@@ -108,7 +122,7 @@ tommaso.lucchini@polimi.it
 
 Corporate
 
-info@goudarefractories.com; nicholas.agon@eu.umicore.com; Nijso.Beishuizen@nl.bosch.com; cars.hiemstra@albemarle.com; timothy.kerry@eu.umicore.com; harmen.kielstra@celsian.nl; stefan.kuiper@almatis.com; joost.meijers@danieli-corus.com; anatolie.motelica@albemarle.com; michiel.oudenhuijzen@albemarle.com; m.senden@dejong.nl; sido.sinnema@tatasteeleurope.com; ewout.tesselaar@danieli-corus.com; luuk.thielen@celsian.nl; victor.van-Straaten@danieli-corus.com;
+info@goudarefractories.com; nicholas.agon@eu.umicore.com; L.Axelsson@opra.nl; Nijso.Beishuizen@nl.bosch.com; cars.hiemstra@albemarle.com; timothy.kerry@eu.umicore.com; harmen.kielstra@celsian.nl; Joris.Koomen@thomassen.psm.com; stefan.kuiper@almatis.com; Geert.Laagland@vattenfall.com; stefano.mania@shell.com; joost.meijers@danieli-corus.com; anatolie.motelica@albemarle.com; michiel.oudenhuijzen@albemarle.com; m.senden@dejong.nl; sido.sinnema@tatasteeleurope.com; Peter.Stuttaford@thomassen.psm.com; ewout.tesselaar@danieli-corus.com; luuk.thielen@celsian.nl; victor.van-Straaten@danieli-corus.com;
 
 https://www.mitsubishi.nl? 
 siemens.nl 
@@ -218,7 +232,10 @@ To recap, Cvent can add value to your event by:
 <center> CVENT pricing information.</center>   
 </div>
 
-## Section 4: Change of Date - Hotel 
+## Section 4: Hotel Matters 
+
+### Change in Date 
+
 Goedemiddag Domenico,
  
 Wij hebben elkaar vanochtend telefonisch gesproken.
@@ -236,15 +253,27 @@ Als er nog vragen zijn dan hoor ik het graag!
  
 Met wereldse groet, Emma van Gool. 
 
-## Section 6: Task List 
+### Additional Information on the Hotel 
+
+<b>poster boards</b>: arranged by hotel, nr of posters needs to be forwarded to the hotel to make sure they arrange the right amount of posters. We pay per poster board; In de offerte zijn 20 posterborden meegenomen á EUR 45 per stuk. Deze staan in de kostenbegroting bij dag 2, donderdag 24 november, bij ‘overige’ vermeld.
+Er was afgesproken om 7 posterborden in de wintertuin klaar te zetten voor de ‘poster session’ en nog 13 posterborden in de plenaire zaal.
+
+<b>physical chairs</b>: arranged by the hotel. They need to know in advance the total nr of participants; 
+
+<b>technical equipment </b>: hotel makes sure that we can connect to a beamer. Laptops arranged by ourselves, since renting laptops from the hotel also costs money and nearly everybody has a laptop; 
+ 
+<b>communicate final number of participants</b>: approx. one week in advance the hotel really needs to know the total nr of participants because of dinner, overnight stay, food and drinks during the day, nr of seats, etc; 
+
+## Section 5: Task List 
+
+### Program comite 
+1. plan groups foto; 
+2. collect presentations by speakers on central laptop; 
 
 ### Nijso
 1. contact person to hotel; talks to hotel prior, during conference (group picture) and after conference; sends invoice to Ivan; 
 2. contact to Pyrrhos: sends invoice to Ivan;
 3. contact to KIWICO: sends invoice to Ivan;
-
-### Mark
-1. contact person to CVENT; sends CVENT contact list; William Spooner (wspooner@cvent.com) and Zain Chandan (zchandan@cvent.com); coordinates with Pyrrhos to arrange online payment system; 
 
 ### Rob 
 1. assembles list of contacts for first call; 
@@ -257,9 +286,10 @@ Met wereldse groet, Emma van Gool.
 
 ### Ivan 
 1. pays invoices to hotel, to KIWICO, to FYPER and to CVENT; 
-2. announce Combura on Linked-Inn page; 
+2. contact person to CVENT; sends CVENT contact list; William Spooner (wspooner@cvent.com) and Zain Chandan (zchandan@cvent.com); coordinates with Pyrrhos to arrange online payment system; 
+3. announce Combura on Linked-Inn page; 
 
-## Section 7: NVV Theme Day Suggestions
+## Section 6: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
 - theme day on public domain tools for meshing and computational fluid dynamics
 - theme day on experimental techniques 
