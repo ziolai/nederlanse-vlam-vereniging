@@ -61,24 +61,25 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 ### Other Yearly Expenses 
 
 - IFRF membership 
-
-- MetalToPower: EUR 98.080 over four years.
-
-- DYNAF 
+- MetalToPower: EUR 98.080 over four years? 
+- DYNAF
+- website: EUR 60 per year (to be verified)
 
 ### Yearly Income 
 
-- membership from Bekaert (Raymond Westers and Marc Bus), Bosch and Shell;
+- membership from Bekaert (Raymond Westers and Marc Bus);
+- membership from Bosch (Nijso Beishuizen)
+- membership from Shell (Stefano Mania);
 
 ## Section 3: Combura-2022 
 - website [combura.nl](https://www.combura.nl)
 - hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathis(website))
-- alternatives (payment via IDEAL): [CVENT](cvent.org)
+- alternatives (payment via IDEAL): [EasyConferences](EasyConferences.eu) or [CVENT](cvent.org)
 - dates: Wednesday 23 en Thursday 24 November 2022 
 
-### Section 3.1: Online Registration 
+### Section 3.1: Online Registration and Payment 
 
-<b>Info from EasyConference</b>: In the first instance, we will support you fully with the online registration. The cost for this service would be 20.00 euro per registration, (plus VAT, 19% in Cyprus, if this cannot be avoided as per EU regulations). The following services will be included:
+<b>Info from EasyConferences</b>: In the first instance, we will support you fully with the online registration. The cost for this service would be 20.00 euro per registration, (plus VAT, 19% in Cyprus, if this cannot be avoided as per EU regulations). The following services will be included:
  
 ·        Online registration for the conference.
 ·        Online support to participants and organisers
@@ -91,12 +92,26 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
  
 Please note that in case that the funds will be cleared through our credit card clearing company and our bank accounts are used, there will be a cost for credit card/bank charges equivalent to 2.5%, (this cost would be incurred with any payment method you would choose and in most cases it is substantially higher).
 
-### Section 3.2: First Call For Papers 
+<b> Combura.nl</b>: Contact Pyrrhos to further arrange website. 
+
+### Section 3.2: Finalize First Call For Papers 
 
 1. Finalize dates;
 2. Finalize registration fee;
 3. Finalize distribution list;
-4. Send final version to Domenico of PDF document;  
+4. Send final version to Domenico of PDF document; 
+
+### Section 3.3: Spread First Call For Papers
+
+1. Send First Call to Distribution List  
+
+### Section 3.4: Document Expenses 
+
+1. Create spreadsheet for all expenses given registration fee; 
+
+### Section 3.5: Cure Mailing List 
+
+1. Extend mailing list 
 
 ### Contact List 
 
