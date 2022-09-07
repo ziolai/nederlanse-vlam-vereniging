@@ -76,6 +76,28 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 - alternatives (payment via IDEAL): [CVENT](cvent.org)
 - dates: Wednesday 23 en Thursday 24 November 2022 
 
+### Section 3.1: Online Registration 
+
+<b>Info from EasyConference</b>: In the first instance, we will support you fully with the online registration. The cost for this service would be 20.00 euro per registration, (plus VAT, 19% in Cyprus, if this cannot be avoided as per EU regulations). The following services will be included:
+ 
+·        Online registration for the conference.
+·        Online support to participants and organisers
+·        Financial management of registration fees; The system will be used so that we could receive all the payments on your behalf.
+·        Invoicing for registration fees.
+·        Crosscheck and management support of accepted abstracts and registrations.
+·        Preparation of PDF files for name badges, certificates of attendance and invoices.
+·        Production of any relevant lists that could be produced from the system based on the submitted information.
+·        Optional use of the additional functionality of the system regarding accommodation, conference extras, etc.
+ 
+Please note that in case that the funds will be cleared through our credit card clearing company and our bank accounts are used, there will be a cost for credit card/bank charges equivalent to 2.5%, (this cost would be incurred with any payment method you would choose and in most cases it is substantially higher).
+
+### Section 3.2: First Call For Papers 
+
+1. Finalize dates;
+2. Finalize registration fee;
+3. Finalize distribution list;
+4. Send final version to Domenico of PDF document;  
+
 ### Contact List 
 
 #### Hotel: Conferentiehotel Kontakt der Kontinenten 
