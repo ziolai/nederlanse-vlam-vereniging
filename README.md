@@ -60,24 +60,77 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 ### Other Yearly Expenses 
 
-- IFRF membership 
-- MetalToPower: EUR 98.080 over four years? 
-- DYNAF
+- IFRF membership: how much? 
+- MetalToPower: 40kEUR over four years. Which years?  
+- DYNAF: active? 
+- Boundary Layer Flashback (Tummers contact person):  40kEUR over four years. Which years? 
 - website: EUR 60 per year (to be verified)
 
 ### Yearly Income 
 
-- membership from Bekaert (Raymond Westers and Marc Bus);
-- membership from Bosch (Nijso Beishuizen)
-- membership from Shell (Stefano Mania);
+- membership from Bekaert (Raymond Westers, Technology Manager, 06.46.37.44.70, raymond.westers@bekaert.com and Marc Bus); ask for dialogue on interests; 
 
-## Section 3: Combura-2022 
+- membership from Bosch (Nijso Beishuizen: Bosch Thermotechniek, +31 570 60-2553, Nijso.Beishuizen@nl.bosch.com): ask for adjoint optimization in OpenFoam; see lectures Dutch Section Combustion Institute; 
+
+- membership from Shell (Stefano Mania, stefano.mania@shell.com); ask for non-invasive imaging of hydrogren flames; 
+
+- membership from De Jong (Mark Senden, 06.38.10.69.22, m.senden@dejong.nl); ask for dialogue on interests; 
+
+## Section 3: Combura-2022
+- dates: Wednesday 23 en Thursday 24 November 2022
+
+### Section 3.1: Minutes NVV Members Meeting (Draft Awaiting Final Approval)
+
+1. @rob: what is status status payment NVV membership 2022 from TU Eindhoven? 
+2. @rob, @ivan: should hotel Contact der Kontinenten be reserved for Combura-2023 for October 18-19 or October 25-26? 
+3. @Ivan: pls. send documents to Dirk and Nijso to allow for balance check 
+4. @xiaocheng: ideas to improve website are most welcome.  
+
+Present: Rob Bastiaans, Ivan Langella, Nijso Bieshuizen, Dirk Roekaerts, Domenico Lahaye, Stefano Mania, Avind Gangoli, Jeroen van Ooijen, Francesca di Domenico, two Bekaert representatives 
+Excused: Jim Kok 
+ 
+1/ <b> Balance check on NVV bank account </b>
+- Q: status payment NVV membership 2021 from TU Eindhoven?
+- Q: status payment NVV membership 2021 from TU Twente?  
+- Q: status payment NVV membership 2021 from industrial members (Bekaert, Bosch, De Jong, Shell)?
+- Q: Any news from TATA Steel as renewed industrial membership? 
+- Agreed: Balance check will be performed by Dirk Roekaerts and Nijso  Bieshuizen; 
+
+2/ <b> Overview status NVV support NWO project - Longer term expenses of NVV </b> 
+- Q: Metal2Power: project ongoing; status payment. Invoice of 8625EUR instead of 10kEUR. Why? What about other invoices? 
+- Agreed: Hydrogen Flashback: project in review: D. Lahaye wrote letter of support; 
+- Q: Jet Cross-Flow: project in review: no letter of support as far as D. Lahaye is aware of. How come? 
+
+3/ <b> Combura-2022 </b> 
+- Agreed: hotel invoice to be send to invoice. Domenico called hotel on December 2nd for information. Invoice will be send to us soon. 
+
+4/ <b> Combura-2023 </b> 
+- Agreed: Francesca di Domenico (TU Delft) in programme committee 
+- Agreed: second half of October during education-free weeks in academic calender of all three TU
+- Q: seek members of program and organization comite
+
+5/ <b> IFRF Membership - IFRF Annual Conference 2023 </b>  
+- Q: is NVV a member of IFRF? If not, what is invoice EUR 2.750 (IFRF invoice 0020 of 27 june 2022)? 
+- Q: are TU Eindhoven, TU Delft and TU Twente members of IFRF? If so, how is membership paid for? 
+- Q: how to arrange IFRF Annual Conference 2023 - cfr. email exchange between Rob Bastiaans and Greg 
+- Agreed: Domenico called Kontact der Continenten and sought space to host annual meeting. 
+
+6/ <b> NVV Study Days - Second Half of April - TU Delft </b>
+- TU Delft proposes to organize an NVV study day in the second half on April-2023. Content and location to be decided. Suggestion supported by Stefano Mania (Shell). Wish to strengthen ties to non-NVV members such as Air Liquide, Stork, Technip and others.  Domenico email TU Delft Science Center to seek location. 
+
+7/ <b> NVV webpage </b> 
+- Needs to be updated. First outline on https://github.com/ziolai/nederlanse-vlam-vereniging How to proceed? 
+
+8/ <b> NVV Archive by Dirk Roekaerts </b> 
+- Needs to be handed over. 
+
+## Section 4: Combura-2023  
+- dates: Tuesday 24th evening and Wednesday 25th all day October, 2023  
 - website [combura.nl](https://www.combura.nl)
 - hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathis(website))
 - alternatives (payment via IDEAL): [EasyConferences](EasyConferences.eu) or [CVENT](cvent.org)
-- dates: Wednesday 23 en Thursday 24 November 2022 
 
-### Section 3.1: Online Registration and Payment 
+### Section 4.1: Online Registration and Payment 
 
 <b>Info from EasyConferences</b>: In the first instance, we will support you fully with the online registration. The cost for this service would be 20.00 euro per registration, (plus VAT, 19% in Cyprus, if this cannot be avoided as per EU regulations). The following services will be included:
  
@@ -94,22 +147,22 @@ Please note that in case that the funds will be cleared through our credit card 
 
 <b> Combura.nl</b>: Contact Pyrrhos to further arrange website. 
 
-### Section 3.2: Finalize First Call For Papers 
+### Section 4.2: Finalize First Call For Papers 
 
 1. Finalize dates;
 2. Finalize registration fee;
 3. Finalize distribution list;
 4. Send final version to Domenico of PDF document; 
 
-### Section 3.3: Spread First Call For Papers
+### Section 4.3: Spread First Call For Papers
 
 1. Send First Call to Distribution List  
 
-### Section 3.4: Document Expenses 
+### Section 4.4: Document Expenses 
 
 1. Create spreadsheet for all expenses given registration fee; 
 
-### Section 3.5: Cure Mailing List 
+### Section 4.5: Cure Mailing List 
 
 1. Extend mailing list 
 
@@ -269,27 +322,12 @@ To recap, Cvent can add value to your event by:
 <center> CVENT pricing information.</center>   
 </div>
 
-## Section 4: Hotel Matters 
+## Section 5: IFRF-2023 Conference
 
-### Change in Date 
+See [notebook](./ifrf-2023.ipynb).
 
-Goedemiddag Domenico,
+## Section 6: Hotel Matters 
  
-Wij hebben elkaar vanochtend telefonisch gesproken.
-Je gaf aan dat jullie eraan zitten te denken om het Combura congres 2022 te verplaatsen naar eind november dit jaar. 
- 
-Zoals aangegeven zou ik even kijken naar welke mogelijkheid wij in november hebben. De enige mogelijkheid die wij nog hebben is woensdag 23 en donderdag 24 november. Daarbij zullen er wel wat kleine wijzigingen zijn, namelijk de hotelkamers en een subzaal.
-Voor 4 op 5 oktober zijn er nu 42 tweepersoonskamers gereserveerd voor single use, maar deze hebben wij niet meer beschikbaar voor 23 op 24 november. Wij kunnen voor die datum wel 23 tweepersoonskamers single use en 19 éénpersoonskamers reserveren.
- 
-Daarnaast zijn er nu op 5 oktober 2 subzalen van 35m2 in de middag gereserveerd (van 13:50 tot 16:25). Op 24 november hebben wij nog maar 1 subzaal beschikbaar van 35m2 en zouden wij een andere subzaal van 50m2 kunnen reserveren. Hier zit wel een andere zaalhuurprijs aan, namelijk €400 i.p.v. €180.
- 
-Mochten jullie de beslissing nemen om het congres te verplaatsen naar 23-24 november, dan kan dat kosteloos. Mochten jullie uiteindelijk de beslissing nemen om het congres te annuleren dan zijn onze annuleringsvoorwaarden van toepassing.
- 
-Wij houden de zalen op 23-24 november voor jullie in optie. Wij horen graag uiterlijk vrijdag 2 september welke beslissing er genomen is.
-Als er nog vragen zijn dan hoor ik het graag!
- 
-Met wereldse groet, Emma van Gool. 
-
 ### Additional Information on the Hotel 
 
 <b>poster boards</b>: arranged by hotel, nr of posters needs to be forwarded to the hotel to make sure they arrange the right amount of posters. We pay per poster board; In de offerte zijn 20 posterborden meegenomen á EUR 45 per stuk. Deze staan in de kostenbegroting bij dag 2, donderdag 24 november, bij ‘overige’ vermeld.
@@ -301,7 +339,7 @@ Er was afgesproken om 7 posterborden in de wintertuin klaar te zetten voor de �
  
 <b>communicate final number of participants</b>: approx. one week in advance the hotel really needs to know the total nr of participants because of dinner, overnight stay, food and drinks during the day, nr of seats, etc; 
 
-## Section 5: Task List 
+## Section 7: Task List 
 
 ### Program comite 
 1. plan groups foto; 
@@ -326,7 +364,7 @@ Er was afgesproken om 7 posterborden in de wintertuin klaar te zetten voor de �
 2. contact person to CVENT; sends CVENT contact list; William Spooner (wspooner@cvent.com) and Zain Chandan (zchandan@cvent.com); coordinates with Pyrrhos to arrange online payment system; 
 3. announce Combura on Linked-Inn page; 
 
-## Section 6: NVV Theme Day Suggestions
+## Section 8: NVV Theme Day Suggestions
 - theme day on non-intrusive imaging using convolutional neural networks
 - theme day on public domain tools for meshing and computational fluid dynamics
 - theme day on experimental techniques 
