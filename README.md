@@ -81,10 +81,8 @@ Ask for offers at e.g. [99designs](https://en.99designs.nl).
 
 ### Section 3.1: Minutes NVV Members Meeting (Draft Awaiting Final Approval)
 
-1. @rob: what is status status payment NVV membership 2022 from TU Eindhoven? 
-2. @rob, @ivan: should hotel Contact der Kontinenten be reserved for Combura-2023 for October 18-19 or October 25-26? 
-3. @Ivan: pls. send documents to Dirk and Nijso to allow for balance check 
-4. @xiaocheng: ideas to improve website are most welcome.  
+1. @Ivan: pls. send documents to Dirk and Nijso to allow for balance check 
+2. @xiaocheng: ideas to improve website are most welcome.  
 
 Present: Rob Bastiaans, Ivan Langella, Nijso Bieshuizen, Dirk Roekaerts, Domenico Lahaye, Stefano Mania, Avind Gangoli, Jeroen van Ooijen, Francesca di Domenico, two Bekaert representatives 
 Excused: Jim Kok 
@@ -125,10 +123,11 @@ Excused: Jim Kok
 - Needs to be handed over. 
 
 ## Section 4: Combura-2023  
-- dates: Tuesday 24th evening and Wednesday 25th all day October, 2023  
+- dates: Monday 23th evening and Tuesday 24th all day October, 2023  
 - website [combura.nl](https://www.combura.nl)
-- hosted by SciConf organisers (Gemma van der Windt and Marion de Boer and Phyros Stathis(website))
-- alternatives (payment via IDEAL): [EasyConferences](EasyConferences.eu) or [CVENT](cvent.org)
+- programme committee: Francesca di Domenico (TU Delft), Jeroen van Ooijen (TU Eindhoven) and NN; 
+- organization committee: Ivan Langella (TU Delft), NN and NN; 
+- hotel Kontact der Kontinenten booked; 
 
 ### Section 4.1: Online Registration and Payment 
 
