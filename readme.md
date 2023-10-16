@@ -20,7 +20,7 @@ Christine Bertrand (christine@origencarbonsolutions.com) - [Origin Carbon Soluti
 
 Sethu Ramalingan (Sethu.Ramalingam@danieli-corus.com) - [Danieli-Corus Ijmuiden](http://www.danieli-corus.com) - Furnaces for the production of [hot blast](https://en.wikipedia.org/wiki/Hot_blast) used as preheated oxidizer for hot blast stoves used in the production of steel. Combustion induced [noice](https://en.wikipedia.org/wiki/Thermoacoustics), structural vibrations, [modal analysis](https://en.wikipedia.org/wiki/Modal_analysis), burner optimization.   
 
-Dmitry Gyrontsev (dmitry.goryntsev@celsian.nl) - [Celsian Eindhoven](http://www.celsian.nl) - Furnaces for the [production of glass](https://en.wikipedia.org/wiki/Glass_production), energy efficiency, emissions, properties of glass melt, quality of final product. 
+Dmitry Goryntsev (dmitry.goryntsev@celsian.nl) - [Celsian Eindhoven](http://www.celsian.nl) - Furnaces for the [production of glass](https://en.wikipedia.org/wiki/Glass_production), energy efficiency, emissions, properties of glass melt, quality of final product. 
 
 ## Dialogue between Academia and Industry 
 
