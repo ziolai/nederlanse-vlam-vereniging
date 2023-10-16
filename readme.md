@@ -16,7 +16,7 @@ Wish to promote dialogue between industry and academia. Therefore session in two
 
 Context definition. Problem definition. Suggestions for research.  
 
-Christine Bertrand (christine@origencarbonsolutions.com) - [Origin Carbon Solutions](http://www.origencarbonsolutions.com) - Vertical shaft convertor for the calcination of lime. Optimal throughput, product quality, energy efficiency, pollutant formation, alternative fuels, fuel blends with hydrogen.    
+Christine Bertrand (christine@origencarbonsolutions.com) - [Origin Carbon Solutions](http://www.origencarbonsolutions.com) - Tentative title: *The role of modelling in the design of a prototype demo-plant for the production of zero C lime*. Vertical shaft convertor for the calcination of lime. Optimal throughput, product quality, energy efficiency, pollutant formation, alternative fuels, fuel blends with hydrogen.    
 
 Sethu Ramalingan (Sethu.Ramalingam@danieli-corus.com) - [Danieli-Corus Ijmuiden](http://www.danieli-corus.com) - Furnaces for the production of [hot blast](https://en.wikipedia.org/wiki/Hot_blast) used as preheated oxidizer for hot blast stoves used in the production of steel. Combustion induced [noice](https://en.wikipedia.org/wiki/Thermoacoustics), structural vibrations, [modal analysis](https://en.wikipedia.org/wiki/Modal_analysis), burner optimization.   
 
