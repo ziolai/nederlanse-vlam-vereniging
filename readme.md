@@ -18,7 +18,7 @@ Context definition. Problem definition. Suggestions for research.
 
 Christine Bertrand (christine@origencarbonsolutions.com) - [Origin Carbon Solutions](http://www.origencarbonsolutions.com) - Tentative title: *The role of modelling in the design of a prototype demo-plant for the production of zero C lime*. Vertical shaft convertor for the calcination of lime. Optimal throughput, product quality, energy efficiency, pollutant formation, alternative fuels, fuel blends with hydrogen.    
 
-Sethu Ramalingan (Sethu.Ramalingam@danieli-corus.com) - [Danieli-Corus Ijmuiden](http://www.danieli-corus.com) - Furnaces for the production of [hot blast](https://en.wikipedia.org/wiki/Hot_blast) used as preheated oxidizer for hot blast stoves used in the production of steel. Combustion induced [noice](https://en.wikipedia.org/wiki/Thermoacoustics), structural vibrations, [modal analysis](https://en.wikipedia.org/wiki/Modal_analysis), burner optimization.   
+Sethu Ramalingan (Sethu.Ramalingam@danieli-corus.com) - [Danieli-Corus Ijmuiden](http://www.danieli-corus.com) - Title: *Hot Stove Burner Improvement and Vibration Study using CFD*. Furnaces for the production of [hot blast](https://en.wikipedia.org/wiki/Hot_blast) used as preheated oxidizer for hot blast stoves used in the production of steel. Combustion induced [noice](https://en.wikipedia.org/wiki/Thermoacoustics), structural vibrations, [modal analysis](https://en.wikipedia.org/wiki/Modal_analysis), burner optimization.   
 
 Dmitry Goryntsev (dmitry.goryntsev@celsian.nl) - [Celsian Eindhoven](http://www.celsian.nl) - Furnaces for the [production of glass](https://en.wikipedia.org/wiki/Glass_production), energy efficiency, emissions, properties of glass melt, quality of final product. 
 
